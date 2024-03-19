@@ -2,7 +2,7 @@ fx_version 'cerulean'
 lua54 'yes'
 games { 'gta5' }
 author 'Kael Scripts'
-description 'Weapon Distributing Script'
+description 'Serial Copier Script'
 version '1.0.0'
 
 client_scripts {
